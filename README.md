@@ -2,22 +2,19 @@
 # Hello there! I'm Muhammad Umar Attique 
 ### Machine Learning Engineer | Deep Learning  | AI Enthusiast
 
----
 
 # **About Me**
 
 Hi, I’m Umar Attique, a passionate AI Engineer with a deep curiosity for how intelligent systems can improve human life.
 My learning journey started from a small smartphone, where I wrote my first lines of code, and has grown into developing advanced AI models on powerful GPU systems. This progress inspires me every day, and I’m excited to see how far I can go in the future.
 
----
 
 # **My Goals**
-- Use AI to serve humanity, not just to build technology
-- Motivate others to learn, grow, and contribute positively
-- Prove that when your intention is good, success and respect naturally follow
-- I strongly believe in guiding newcomers with complete honesty—providing them a clear path
+- Use AI to **serve humanity** not just to build technology.
+- Motivate others to **learn, grow, and contribute positively**.
+- Prove that when your **intention is good** success and respect naturally follow.
+- I strongly believe in guiding newcomers with complete **honesty—providing** them a clear path.
 
-  ---
 
 #  **Professional Highlights**
 
@@ -26,7 +23,6 @@ My learning journey started from a small smartphone, where I wrote my first line
 - **Dataset Quality Evaluator** analyzing and validating custom datasets to ensure high-quality inputs for accurate and robust ML model training.
   
 
----
 
 #  **What I’m Working On**
 
@@ -36,7 +32,6 @@ Currently exploring and building:
 * Developing a **Mental Health Detection Project** using BVH dataset for precisely mental health detection
 * Continuously enhancing my **AI and Data Science skillset**
 
----
 
 #  **Achievements**
 
@@ -44,7 +39,6 @@ Currently exploring and building:
 - Earned **7+ Kaggle certificates** in the Data Science domain like **PythonCoder** **DatasetCreator**
 - Successfully **balance teaching and project development** ensuring all AI projects are completed efficiently, accurately
 
----
 
 #  **Projects**
 
@@ -55,7 +49,6 @@ Currently exploring and building:
 - **Multimodal Facial Expression Recognition**  Detect the emotion of customers on multiple modality (text+audio+image)
 - **Multiple Document Reader with Openai,Gemini&Ollama** A chatbot that can accept multiple documents and reply from that content with references of uploaded document
 
----
 
 #  **Skills*
 - **Machine Learning**: Supervised/Unsupervised Learning, Transfer Learning, Model Evaluation
