@@ -50,7 +50,7 @@ Currently exploring and building:
 - **Multiple Document Reader with Openai,Gemini&Ollama** A chatbot that can accept multiple documents and reply from that content with references of uploaded document
 
 
-#  **Skills*
+#  **Skills**
 - **Machine Learning**: Supervised/Unsupervised Learning, Transfer Learning, Model Evaluation
 - **Deep Learning**: Computer Vision, Time-Series Forecasting, NLP
 - **Data Science**: Data Cleaning, EDA, Statistical Analysis
