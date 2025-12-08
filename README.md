@@ -1,6 +1,6 @@
 
 # Hello there! I'm Muhammad Umar Attique 
-### Machine Learning Engineer | Deep Learning  | AI Enthusiast
+### Machine Learning Engineer | Deep Learning  | Gen AI Enthusiast
 
 
 # **About Me**
