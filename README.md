@@ -18,9 +18,9 @@ My learning journey started from a small smartphone, where I wrote my first line
 
 #  **Professional Highlights**
 
-- **Project Manager** responsible for planning, managing, and delivering AI projects effectively.
-- **Lead of Dataset Collection (BVH)** for a mental-health detection project, ensuring reliable and ethically collected data.
-- **Dataset Quality Evaluator** analyzing and validating custom datasets to ensure high-quality inputs for accurate and robust ML model training.
+- **Project Manager** Responsible for planning, managing, and delivering AI projects effectively.
+- **Real World Problem Solving** Analyze the things to get the real world problem and trying best to resolve that problem.
+- **Project Development and Quality Evaluator** Develop the project and also ensure the quality work of projects in a professional way.
   
 
 
@@ -35,7 +35,7 @@ Currently exploring and building:
 
 #  **Achievements**
 
-- Consistently work as an **AI Developer** delivering projects on time with precise optimization.
+- Consistently work as an **AI Developer and Consultant** delivering projects on time with precise optimization.
 - Earned **7+ Kaggle certificates** in the Data Science domain like **PythonCoder** **DatasetCreator**
 - Successfully **balance teaching and project development** ensuring all AI projects are completed efficiently, accurately
 
@@ -55,9 +55,10 @@ Currently exploring and building:
 - **Deep Learning**: Computer Vision, Time-Series Forecasting, NLP
 - **Data Science**: Data Cleaning, EDA, Statistical Analysis
 - **Tools: Python**, PyTorch, TensorFlow, Langchain,Dash,Openai, SQL, Pandas, Matplotlib, Streamlit, Gradio, and Plotly
-- **Front End**: Streamlit, Gradio, Dash, HTML/CSS
+- **Full Stack AI Apps**: ML, Python, DL, React JS, Next JS, Tailwind CSS
 - **Gen AI**: Build Gen AI applications to enhance business.
 # **Connect With Me**
 
 * **Email:** umarattique9@gmail.com
+* * **Whatsapp:** +92 327343906
 * **LinkedIn:** [https://www.linkedin.com/in/umar-attique-7215bb324/]
